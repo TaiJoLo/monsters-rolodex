@@ -6,11 +6,14 @@
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
-  border-radius: 25px;
 }
 
 input::placeholder {
   font-weight: bold;
   opacity: 0.5;
   margin-left: 0.5em;
+}
+
+.monsters-search-box {
+  border-radius: 25px;
 }
